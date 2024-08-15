@@ -1,7 +1,7 @@
 Web Scraping in Python with Selenium and BeautifulSoup
 
-Page: https://quotes.toscrape.com/
+Pages: https://quotes.toscrape.com/, https://books.toscrape.com/
 
 How to execute:
 
-Run the command on terminal: python .\scrapingQuotes.py 
+Run the command on terminal: python .\scrapingQuotes.py or python .\scrapingBooks.py
