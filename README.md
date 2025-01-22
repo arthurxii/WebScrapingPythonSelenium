@@ -1,4 +1,4 @@
-Web Scraping in Python with Selenium and BeautifulSoup
+Web Scraping in Python with Selenium and BeautifulSoup, to extract data and save in a csv table
 
 Pages: https://quotes.toscrape.com/ and https://books.toscrape.com/
 
