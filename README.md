@@ -1,6 +1,6 @@
 Web Scraping in Python with Selenium and BeautifulSoup
 
-Pages: https://quotes.toscrape.com/, https://books.toscrape.com/
+Pages: https://quotes.toscrape.com/ and https://books.toscrape.com/
 
 How to execute:
 
